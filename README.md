@@ -5,3 +5,4 @@ To run this project execute below commands:
 2. brew install mysql (if mysql is not installed)
 3. export PATH=$PATH:/usr/local/mysql/bin
 4. pip install MySQL-Python
+5. python manage.py runserver (to execute Django server)
